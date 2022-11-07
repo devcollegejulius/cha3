@@ -16,3 +16,4 @@ jobs:
 
       - name: Display Azure account info
         run: az account show -o yaml
+        
